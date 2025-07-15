@@ -1,4 +1,4 @@
-# neoncalculator
+# www.neoncalculator.com
 <h1 align="center">Hi 👋, I'm Bikramjit Pakhira</h1>
 <h3 align="center">I’m a passionate 2nd-year college student currently pursuing my degree in Computer Science & Engineering at B. P. Poddar Institute of Management & Technology. I have a strong interest in web development, AI, or cybersecurity, and I love exploring new technologies and building projects that solve real-world problems.</h3>
 
